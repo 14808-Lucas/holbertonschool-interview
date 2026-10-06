@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """ Defines canUnlockAll, which checks if every locked box can be opened."""
 
 
