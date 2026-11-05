@@ -9,7 +9,7 @@ import sys
 def solve(n, row, queens, cols, diag1, diag2):
     """Place queens row by row and print each full solution.
 
-    queens holds [row, col] pairs placed so far. cols, diag1 and diag2
+    queens holds [row, col] pair placed so far. cols, diag1 and diag2
     are sets of the columns and diagonals already under attack.
     """
     if row == n:
